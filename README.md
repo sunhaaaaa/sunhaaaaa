@@ -2,8 +2,6 @@
 
 <h1>Challenge, Learn, Grow!</h1>
 
----
-
 ### Skills
 **Languages**  
 <img src="https://img.shields.io/badge/JavaScript-efd81d?style=flat&logo=javascript&logoColor=333"/> 
